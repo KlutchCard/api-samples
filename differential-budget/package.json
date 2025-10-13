@@ -1,0 +1,14 @@
+{
+  "name": "differential-budget",
+  "version": "1.0.0",
+  "description": "Using Klutch's API for differential Budget",
+  "main": "differential-budget.js",
+  "type": "module",
+  "scripts": {
+    "start": "node differential-budget.js"
+  },
+  "author": "",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
