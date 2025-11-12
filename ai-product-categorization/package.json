@@ -1,0 +1,15 @@
+{
+  "name": "ai-product-categorization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "description": "Using Klutch's to Categorize products using AI",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
